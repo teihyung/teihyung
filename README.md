@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chris (tae hyung) lee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris (tae hyung) lee" height="30" width="40" /></a>
-<a href="https://instagram.com/_chris_leee__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chris_leee__" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chris-lee-25a64a231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris (tae hyung) lee" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_chris_leee__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chris_leee__" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user4491hp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4491hp" height="30" width="40" /></a>
 <a href="https://discord.gg/chris(taehyung)#9324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="chris(taehyung)#9324" height="30" width="40" /></a>
 </p>

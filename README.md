@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teihyung&label=Profile%20views&color=0e75b6&style=flat" alt="teihyung" /> </p>
 
-- 🔭 I’m currently working on [kitchenGenie](https://github.com/teihyung/2800-202310-BBY25)
+- 🔭 I’m currently working on solving leetcode questions!
 
-- 🌱 I’m currently learning **Javascript, and Python**
+- 🌱 I’m currently learning **Data Structure and Java**
 
 - 📫 How to reach me **teihyung@gmail.com**
 

@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teihyung&label=Profile%20views&color=0e75b6&style=flat" alt="teihyung" /> </p>
 
-- 🔭 I’m currently working on solving leetcode questions!
+- 🔭 I’m currently attending BCIT CST term 3
 
-- 🌱 I’m currently learning **C++, JAVA and tomcat**
+- 🌱 I’m currently learning **C++, JAVA and Unreal Engine**
 
 - 📫 How to reach me **teihyung@gmail.com**
 
-- ⚡ Fun fact **I like to play tennis!**
+- ⚡ Fun fact **I like to play tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teihyung&label=Profile%20views&color=0e75b6&style=flat" alt="teihyung" /> </p>
 
-- 🔭 I’m currently attending BCIT CST term 3
+- 🔭 I’m currently attending BCIT CST term 4
 
-- 🌱 I’m currently learning **C++, JAVA and Unreal Engine**
+- 🌱 I’m currently learning **c#, JavaScript, Node JS, and Next**
 
 - 📫 How to reach me **teihyung@gmail.com**
 

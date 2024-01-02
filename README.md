@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently attending BCIT CST term 4
 
-- 🌱 I’m currently learning **c#, JavaScript, Node JS, and Next**
+- 🌱 I’m currently learning **c#, JavaScript, and Node JS**
 
 - 📫 How to reach me **teihyung@gmail.com**
 

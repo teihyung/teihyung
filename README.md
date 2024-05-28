@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm I'm Chris(Tae Hyung)</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
-- 🔭 I’m currently attending **BCIT CST term 4**
+-  I’m currently attending **BCIT CST term 4**
 
-- 🌱 I’m currently learning **C#, JavaScript, and Node JS**
+-  I’m currently learning **C#, JavaScript, and Node JS**
 
-- 📫 How to reach me **teihyung@gmail.com**
+-  How to reach me **teihyung@gmail.com**
 
-- ⚡ Fun fact **I like to play tennis**
+-  Fun fact **I like to play tennis**
 
-- :grinning: My personal website: https://teihyung.vercel.app/ 
+-  My personal website: https://teihyung.vercel.app/ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

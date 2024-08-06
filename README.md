@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm I'm Chris(Tae Hyung)</h1>
+<h1 align="center">Hi 👋, I'm Chris(Tae Hyung)</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
--  I’m currently attending **BCIT CST term 4**
+-  I have recently graduated from **BCIT CST DIPLOMA**
 
--  I’m currently learning **C#, JavaScript, and Node JS**
+-  I’m currently learning **Spring Boot and Next.js**
 
 -  How to reach me **teihyung@gmail.com**
 

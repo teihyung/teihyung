@@ -3,7 +3,7 @@
 
 -  I have recently graduated from **BCIT CST DIPLOMA**
 
--  I’m currently learning **Spring Boot and Next.js**
+-  I’m currently learning **Containerization**
 
 -  How to reach me **teihyung@gmail.com**
 
